@@ -4,7 +4,7 @@
 
 Built with **Apple MapKit**, **Google Firebase**, and **Core Location**, Expertz features a verified review system (restricted to paying clients only), unbiased search results, and an **AliExpress-style escrow** payment system. The app is currently in development with a working version and ongoing improvements.
 
-> 🔍 **This project is posted for a demonstration of my coding ability, unauthorized reproduction, alteration is strictly prohibited.**
+> 🔍 **This project is posted for a demonstration of my coding ability, unauthorized reproduction and or alteration is strictly prohibited.**
 
 ---
 
