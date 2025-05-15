@@ -135,68 +135,29 @@ To access most features, users must sign in.
 
 ## 📸 Screenshots
 
-Here are screenshots of the Program in action:
+Here are screenshots of Expertz in action:
 
-![Screenshot](https://imgur.com/sl0XEmO.png)
+<img src="https://imgur.com/sl0XEmO.png" width="350"/>
+<img src="https://imgur.com/oEHkg2s.png" width="350"/>
+<img src="https://imgur.com/3WZjpUN.png" width="350"/>
+<img src="https://imgur.com/2JzWo5X.png" width="350"/>
+<img src="https://imgur.com/OFA0JVi.png" width="350"/>
+<img src="https://imgur.com/du0D872.png" width="350"/>
+<img src="https://imgur.com/4xdsCPc.png" width="350"/>
+<img src="https://imgur.com/RMhx1c3.png" width="350"/>
+<img src="https://imgur.com/BEavRwN.png" width="350"/>
+<img src="https://imgur.com/SznMvMI.png" width="350"/>
+<img src="https://imgur.com/0yp139i.png" width="350"/>
+<img src="https://imgur.com/f3RrHHB.png" width="350"/>
+<img src="https://imgur.com/nkCGFGh.png" width="350"/>
+<img src="https://imgur.com/ST64gty.png" width="350"/>
+<img src="https://imgur.com/oBSUnBA.png" width="350"/>
+<img src="https://imgur.com/RL3wv1t.png" width="350"/>
+<img src="https://imgur.com/cEb2Ttf.png" width="350"/>
+<img src="https://imgur.com/xc4E1cI.png" width="350"/>
+<img src="https://imgur.com/1RB6yid.png" width="350"/>
+<img src="https://imgur.com/rxKBNTO.png" width="350"/>
 
-
-![Screenshot](https://imgur.com/oEHkg2s.png)
-
-
-![Screenshot](https://imgur.com/3WZjpUN.png)
-
-
-![Screenshot](https://imgur.com/2JzWo5X.png)
-
-
-
-![Screenshot](https://imgur.com/OFA0JVi.png)
-
-
-
-![Screenshot](https://imgur.com/du0D872.png)
-
-
-![Screenshot](https://imgur.com/4xdsCPc.png)
-
-
-![Screenshot](https://imgur.com/RMhx1c3.png)
-
-
-![Screenshot](https://imgur.com/BEavRwN.png)
-
-
-![Screenshot](https://imgur.com/SznMvMI.png)
-
-
-![Screenshot](https://imgur.com/0yp139i.png)
-
-
-![Screenshot](https://imgur.com/f3RrHHB.png)
-
-
-![Screenshot](https://imgur.com/nkCGFGh.png)
-
-
-![Screenshot](https://imgur.com/ST64gty.png)
-
-
-![Screenshot](https://imgur.com/oBSUnBA.png)
-
-
-![Screenshot](https://imgur.com/RL3wv1t.png)
-
-
-![Screenshot](https://imgur.com/cEb2Ttf.png)
-
-
-![Screenshot](https://imgur.com/xc4E1cI.png)
-
-
-![Screenshot](https://imgur.com/1RB6yid.png)
-
-
-![Screenshot](https://imgur.com/rxKBNTO.png)
 
 ---
 
