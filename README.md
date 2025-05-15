@@ -2,7 +2,7 @@
 
 **Expertz** is a **Swift-based iOS application** connecting skilled professionals with clients. The platform provides a seamless, location-driven experience to discover, chat with, and securely pay verified experts across a range of services.
 
-Built with **Apple MapKit**, **Google Firebase**, and **Core Location**, Expertz features a verified review system (restricted to paying clients only), unbiased search results, and an **AliExpress-style escrow** payment system. The app is currently in development with a working version and ongoing improvements.
+Built with **Apple MapKit**, **Google Firebase**, and **Core Location**, Expertz features a verified review system (restricted to paying clients only), unbiased search results, and an **AliExpress-style escrow** payment system. The app is currently in development with a working version featuring many of the promised features and has ongoing improvements.
 
 > 🔍 **This project is posted for a demonstration of my coding ability, unauthorized reproduction and or alteration is strictly prohibited.**
 
