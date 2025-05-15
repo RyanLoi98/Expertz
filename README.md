@@ -27,7 +27,7 @@ Built with **Apple MapKit**, **Google Firebase**, and **Core Location**, Expertz
 | ------------ | ------------------------------------------------------- |
 | **Frontend** | Swift, SwiftUI, UIKit                                   |
 | **Location** | Core Location, MapKit                                   |
-| **Backend**  | Firebase Authentication, Firestore, Firebase Storage    |
+| **Backend**  | Firebase Authentication, Firestore                      |
 | **Other**    | Cloud Functions (planned), Push Notifications (planned) |
 
 ---
