@@ -161,6 +161,6 @@ Here are screenshots of Expertz in action:
 
 ---
 
-## 🤝 Contact
+## 🤝 Developers
 
-**Developer:** Ryan Loi, Michelle Loi, Amirreza Pazira, Alan Huynh, Josh Davis
+**Developers:** Ryan Loi, Michelle Loi, Amirreza Pazira, Alan Huynh, Josh Davis
