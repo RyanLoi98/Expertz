@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+
+# Xcode
+*.xcuserdata
+*.xcuserstate
+*.xcworkspace
+*.xccheckout
+*.xcodeproj/project.xcworkspace/
+*.xcassets
+
+# Ignore only GoogleService-Info.plist
+Expertz/GoogleService-Info.plist
+
+# Derived data
+DerivedData/
+build/
+
+# Swift Package Manager
+/.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Archives
+*.xcarchive
+
+# Other
+*.ipa
+*.app.dSYM
+*.sym
+# Xcode user-specific files
+*.xcuserdatad/
+*.xcworkspace/
+DerivedData/
+.idea/
