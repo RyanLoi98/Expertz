@@ -135,7 +135,9 @@ To access most features, users must sign in.
 
 ## 📸 Screenshots
 
-> *Insert screenshots here for map view, chat interface, profile view, and login screen.*
+Here are screenshots of the Program in action:
+
+![Screenshot](.png)
 
 ---
 
